@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+##Improving your AI Models with Mixture of Experts (MoE)
+This repository contains the exercise files for the LinkedIn Learning course “Improving Your AI Models with Mixture of Experts (MoE)”. The course introduces the Mixture of Experts (MoE) architecture, a powerful way to scale models efficiently by activating only a subset of specialized experts per input. You’ll learn both the theory and practice of MoEs, with hands-on code walkthroughs and real datasets.
 
 ![lil-thumbnail-url]
 
